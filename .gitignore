@@ -1,0 +1,7 @@
+
+# Ignore bash history files
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.vscode/
